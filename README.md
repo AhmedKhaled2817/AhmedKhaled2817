@@ -94,16 +94,13 @@ Feel free to check out my repositories and follow my journey!
 More exciting projects and professional growth coming soon.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-khaled-39242423a/" target="blank">
+  <a href="https://www.linkedin.com/in/ahmed-khaled-39242423a/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a href="mailto:ahmedkhaled2817@gmail.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
-  <a href="https://github.com/AhmedKhaled2817" target="blank">
+  <a href="https://github.com/AhmedKhaled2817" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
   </a>
 </p>
-
-
-# حفظ النسخة المحدثة من المل
