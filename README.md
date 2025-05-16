@@ -1,5 +1,3 @@
-# تحديث محتوى README.md بناءً على البيانات الشخصية الجديدة التي أرسلها المستخدم
-updated_readme_content = """
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">A passionate Front-End Angular Developer from Egypt</h3>
 
@@ -96,13 +94,16 @@ Feel free to check out my repositories and follow my journey!
 More exciting projects and professional growth coming soon.
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-khaled-39242423a/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+  </a>
+  <a href="mailto:ahmedkhaled2817@gmail.com">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+  </a>
+  <a href="https://github.com/AhmedKhaled2817" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
+  </a>
 </p>
-"""
 
-# حفظ النسخة المحدثة من الملف
-updated_readme_path = Path("/mnt/data/README.md")
-updated_readme_path.write_text(updated_readme_content.strip())
 
-updated_readme_path.name
+# حفظ النسخة المحدثة من المل
