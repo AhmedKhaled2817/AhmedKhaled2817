@@ -1,59 +1,77 @@
-<h1 align="center">👋 Hey there, I'm Ahmed Khaled</h1>
-<h3 align="center">Front-End Angular Developer | Future Full Stack Engineer (Angular + .NET)</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
+<h3 align="center">A passionate Front-End Angular Developer from Egypt</h3>
 
 <p align="center">
-  <a href="https://github.com/AhmedKhaled2817">
-    <img src="https://komarev.com/ghpvc/?username=ahmedkhaled2817&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ahmedkhaled2817&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkhaled2817" />
 </p>
 
 ---
 
-## 💡 About Me
+## 👋 About Me
 
-🔭 I'm a passionate **Front-End Developer** from Egypt, specializing in **Angular**  
-🌱 Currently learning **.NET & C#** to become a **Full Stack Developer**  
-💬 Ask me about **JavaScript**, **Angular**, or **Building Scalable Frontends**  
-📫 Reach me at: ahmedkhaled2817@gmail.com  
-🚀 Always open to learning, building, and collaborating
+🎯 Aspiring **Full Stack Developer** (Angular | .NET)  
+💡 Passionate about **Software Engineering**, **Problem Solving**, and **Building Scalable Applications**  
+🚀 Focused on strong foundations in both **Frontend** and **Backend** development
+
+---
+
+## 💼 What I've Focused On So Far
+
+- 📘 **Software Engineering Fundamentals**: Solid understanding of development principles and best practices  
+- 💻 **Operating Systems & Networks**: Knowledgeable in OS architecture and network protocols  
+- 🧠 **C++ Programming**: Experience in OOP, Data Structures, and Algorithms  
+
+---
+
+## 🚀 Frontend Development Journey
+
+- ✅ Mastered **HTML5**, **CSS3**, and **JavaScript**  
+- 🔨 Built multiple mini projects to strengthen core concepts  
+- ⚙️ Progressed into **TypeScript** and **Angular** for scalable web development  
+
+---
+
+## 🔧 Backend Development Path
+
+- 🎯 Learning **.NET** and **C#** for enterprise-grade backend solutions  
+- 🗃️ Exploring **Database Design**, **APIs**, and **CRUD operations**  
+
+---
+
+## 🎯 Mission Statement
+
+My goal is to become a **Professional Full Stack Developer** who delivers **robust**, **high-performance**, and **scalable** web applications using modern tools like **Angular** and **.NET**.  
+I'm dedicated to **lifelong learning**, **real-world development**, and **problem solving**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools:**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-</p>
+- Angular  
+- JavaScript  
+- TypeScript  
+- HTML5  
+- CSS3  
+- Bootstrap  
+- GitHub  
+- C++
 
 ---
 
-## 🚀 Projects
+## 📌 Featured Projects
 
 - 🔹 [Bank Management System - C++](https://github.com/AhmedKhaled2817/Bank-Management-System)  
-  A simple OOP-based C++ application for managing bank operations.
-
 - 🔹 [Library Management System - C++](https://github.com/AhmedKhaled2817/Library-Management-System)  
-  A console-based system to manage book records and borrowing/returning logic.
-
-- 🔹 [50 Mini Projects - HTML/CSS/JS](https://github.com/AhmedKhaled2817/50-Project-HTML-CSS-JS)  
-  Collection of frontend micro projects focusing on DOM and UI interactions.
+- 🔹 [50 Mini Projects - HTML, CSS, JS](https://github.com/AhmedKhaled2817/50-Project-HTML-CSS-JS)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled2817&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled2817&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled2817&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled2817&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -61,27 +79,19 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled2817&theme=onedark&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled2817&theme=gruvbox&column=7" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
-<p align="left">
-  <a href="mailto:ahmedkhaled2817@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-khaled-39242423a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://github.com/AhmedKhaled2817" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
-  </a>
-</p>
+- 📧 Email: [ahmedkhaled2817@gmail.com](mailto:ahmedkhaled2817@gmail.com)  
+- 💼 LinkedIn: [Ahmed Khaled](https://www.linkedin.com/in/ahmed-khaled-39242423a/)  
+- 🧑‍💻 GitHub: [@AhmedKhaled2817](https://github.com/AhmedKhaled2817)  
 
 ---
 
 <p align="center">
-  🚀 Let's build something great together!
+  🚀 Let's build the future together!
 </p>
