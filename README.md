@@ -1,43 +1,80 @@
--# Hi there, I'm Ahmed Khaled! 👋
+from pathlib import Path
 
-## Aspiring Full Stack Developer (Angular | .NET)
+# محتوى ملف README.md بعد التعديل الأخير
+readme_content = """
+<h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
+<h3 align="center">A passionate Front-End Angular Developer from Egypt</h3>
 
-I'm deeply passionate about *Software Engineering, **Problem Solving, and **Building Scalable Applications*.  
-Currently, I'm developing my skills by working on *solid foundational knowledge* in both *Frontend* and *Backend* technologies.
-
----
-
-## 🛠 What I've Focused on So Far:
-
-- *Software Engineering Fundamentals:* Deep understanding of software development principles and best practices.
-- *Operating Systems and Networks:* Solid grounding in OS concepts and networking essentials.
-- *Programming with C++:* Good focus on OOP, Data Structures, and Algorithms.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedkhaled2817&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkhaled2817" />
+</p>
 
 ---
 
-## 🚀 Frontend Development Journey:
+- 🌱 I’m currently learning **advanced Angular, TypeScript, and UI/UX best practices**
 
-- Mastering *HTML5, **CSS3, and **JavaScript* fundamentals.
-- Building multiple projects to strengthen core frontend skills.
-- Progressing to *TypeScript* and *Angular* for professional-level development.
+- 👨‍💻 All of my projects are available at [My GitHub Projects](https://github.com/AhmedKhaled2817?tab=repositories)
 
----
+- 💬 Ask me about **Angular, HTML, CSS, Bootstrap, JavaScript**
 
-## ⚙️ Backend Development Path:
+- 📫 How to reach me: **youremail@example.com**
 
-- Planning to master *.NET* and *C#* for powerful backend solutions.
-- Strong emphasis on *Database Design* and *Interaction*.
+- ⚡ Fun fact: I love building pixel-perfect UIs and solving real-world problems!
 
 ---
 
-## 🎯 My Mission:
+### 🛠️ Languages and Tools:
 
-Become a *Professional Full Stack Developer* with the ability to craft robust, high-performance, and scalable web applications using modern technologies like *Angular* and *.NET*.  
-I'm committed to *continuous learning, **real-world project development, and **delivering impactful solutions*.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
 
 ---
 
-## 📫 Let's Connect:
+### 📈 GitHub Stats:
 
-Feel free to check out my repositories and follow my journey!  
-More exciting projects and professional growth coming soon
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled2817&show_icons=true&locale=en" alt="ahmedkhaled2817" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedkhaled2817&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled2817&theme=gruvbox&column=7" alt="trophies"/>
+</p>
+
+---
+
+### 📌 Featured Projects:
+
+- 🔹 [Bank Management System - C++](https://github.com/AhmedKhaled2817/Bank-Management-System)
+- 🔹 [Library Management System - C++](https://github.com/AhmedKhaled2817/Library-Management-System)
+- 🔹 [50 Project - HTML, CSS, JS](https://github.com/AhmedKhaled2817/50-Project-HTML-CSS-JS)
+
+---
+
+### 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+</p>
+"""
+
+# حفظ الملف
+readme_path = Path("/mnt/data/README.md")
+readme_path.write_text(readme_content.strip())
+
+readme_path.name
