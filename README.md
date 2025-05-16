@@ -65,7 +65,7 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 ## 📌 Featured Projects
 
 - 🔹 [Bank Management System - C++](https://github.com/AhmedKhaled2817/Bank-Management-System)  
-- 🔹 [Library Management System - C++](https://github.com/AhmedKhaled2817/Library-Management-System)  
+- 🔹 [Library Management System - C++](https://github.com/AhmedKhaled2817/Electronic-Library-Management-System-ELMS)  
 - 🔹 [50 Mini Projects - HTML, CSS, JS](https://github.com/AhmedKhaled2817/50-Project-HTML-CSS-JS)  
 
 ---
