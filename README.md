@@ -72,12 +72,7 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled2817&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled2817&layout=compact&theme=radical" />
-</p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🏆 GitHub Stats
