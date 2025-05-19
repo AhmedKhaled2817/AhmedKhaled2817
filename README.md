@@ -80,11 +80,12 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="./images/github-trophies.png" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled2817&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 </p>
+
 
 ## 📫 Let's Connect
 
