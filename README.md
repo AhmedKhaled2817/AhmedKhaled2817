@@ -64,9 +64,14 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📌 Featured Projects
 
-- 🔹 [Bank Management System - C++](https://github.com/AhmedKhaled2817/Bank-Management-System)  
-- 🔹 [Library Management System - C++](https://github.com/AhmedKhaled2817/Electronic-Library-Management-System-ELMS)  
 - 🔹 [50 Mini Projects - HTML, CSS, JS](https://github.com/AhmedKhaled2817/50-Project-HTML-CSS-JS)  
+  ↳ A collection of 50+ interactive front-end mini projects that demonstrate core JavaScript functionality, DOM manipulation, and UI/UX design skills.
+
+- 🔹 [Bank Management System - C++](https://github.com/AhmedKhaled2817/Bank-Management-System)  
+  ↳ A console-based application simulating essential banking operations like account creation, deposit, withdrawal, and data storage, using OOP concepts in C++.
+
+- 🔹 [Library Management System - C++](https://github.com/AhmedKhaled2817/Electronic-Library-Management-System-ELMS)  
+  ↳ A simple digital library system that manages book listings, borrowing, and returns through a structured OOP design and file handling in C++.
 
 ---
 
