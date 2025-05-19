@@ -82,10 +82,10 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled2817&theme=gruvbox&column=7" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled2817&show_icons=true&theme=gruvbox" alt="Ahmed's GitHub Stats" />
+</p>
 ---
 
 ## 📫 Let's Connect
