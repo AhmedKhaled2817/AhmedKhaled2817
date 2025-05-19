@@ -72,21 +72,26 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled2817&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled2817&layout=compact&theme=radical" />
+</p>
+
 ---
 
-## 🏆 GitHub Stats
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled2817&theme=gruvbox&column=7" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled2817&theme=gruvbox&column=7" />
+</p>
+
+---
 
 ## 📫 Let's Connect
 
 - 📧 Email: [ahmedkhaled2817@gmail.com](mailto:ahmedkhaled2817@gmail.com)  
 - 💼 LinkedIn: [Ahmed Khaled](https://www.linkedin.com/in/ahmed-khaled-39242423a/)  
-- 🧑‍💻 GitHub: [@AhmedKhaled2817](https://github.com/AhmedKhaled2817)
+- 🧑💻 GitHub: [@AhmedKhaled2817](https://github.com/AhmedKhaled2817)
 
 ---
-
-<p align="center">
-  🚀 Let's build the future together!
-</p>
