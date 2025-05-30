@@ -64,6 +64,9 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📌 Featured Projects
 
+- 🔹 [Food Restaurant Website - HTML/CSS/JS](https://github.com/AhmedKhaled2817/FoodResturant)  
+  ↳ A fully responsive restaurant landing page featuring a sleek homepage, interactive menu, and a reservation form — built using HTML5, CSS3, and JavaScript.
+
 - 🔹 [50 Mini Projects - HTML, CSS, JS](https://github.com/AhmedKhaled2817/50-Project-HTML-CSS-JS)  
   ↳ A collection of 50+ interactive front-end mini projects that demonstrate core JavaScript functionality, DOM manipulation, and UI/UX design skills.
 
