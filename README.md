@@ -94,7 +94,7 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled2817&theme=gruvbox&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedKhaled2817&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
