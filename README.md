@@ -64,6 +64,9 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📌 Featured Projects
 
+- 🔹 [QuizApp - HTML/CSS/JS](https://github.com/AhmedKhaled2817/QuizApp)  
+  ↳ An interactive quiz application that dynamically presents questions, tracks the score, and gives instant feedback to the user. Built with HTML, CSS, and vanilla JavaScript.  
+
 - 🔹 [Food Restaurant Website - HTML/CSS/JS](https://github.com/AhmedKhaled2817/FoodResturant)  
   ↳ A fully responsive restaurant landing page featuring a sleek homepage, interactive menu, and a reservation form — built using HTML5, CSS3, and JavaScript.
 
