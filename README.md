@@ -64,6 +64,9 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📌 Featured Projects
 
+- 🔹 [EBook - HTML/CSS/JS](https://github.com/AhmedKhaled2817/EBook)  
+  ↳ A sleek eBook website design built with HTML, CSS, and JavaScript. Features clean layout, responsive design, and interactive elements for a seamless reading experience.
+
 - 🔹 [QuizApp - HTML/CSS/JS](https://github.com/AhmedKhaled2817/QuizApp)  
   ↳ An interactive quiz application that dynamically presents questions, tracks the score, and gives instant feedback to the user. Built with HTML, CSS, and vanilla JavaScript.  
 
