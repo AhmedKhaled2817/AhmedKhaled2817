@@ -64,6 +64,9 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📌 Featured Projects
 
+- 🔹 [ECar - HTML/CSS/JS](https://github.com/AhmedKhaled2817/ECar)  
+  ↳ A fully responsive electric car landing page built with HTML5, CSS3, and JavaScript. It features scroll animations, interactive carousels, and a clean, modern layout ideal for automotive showcases.
+
 - 🔹 [EBook - HTML/CSS/JS](https://github.com/AhmedKhaled2817/EBook)  
   ↳ A sleek eBook website design built with HTML, CSS, and JavaScript. Features clean layout, responsive design, and interactive elements for a seamless reading experience.
 
