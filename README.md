@@ -64,6 +64,9 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📌 Featured Projects
 
+- 🔹 [RealState - HTML/CSS/JS](https://github.com/AhmedKhaled2817/RealState)  
+  ↳ A fully responsive real estate website featuring a modern layout, dark mode toggle, scroll animations, and clean property sections — ideal for showcasing real estate agencies or landing pages
+
 - 🔹 [ECar - HTML/CSS/JS](https://github.com/AhmedKhaled2817/ECar)  
   ↳ A fully responsive electric car landing page built with HTML5, CSS3, and JavaScript. It features scroll animations, interactive carousels, and a clean, modern layout ideal for automotive showcases.
 
