@@ -63,6 +63,8 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 ---
 
 ## 📌 Featured Projects
+- 🔹 [TravelWebsite - HTML/CSS/JS](https://github.com/AhmedKhaled2817/TravelWebsite)  
+  ↳ A beautiful and interactive travel agency website featuring destination showcases, testimonial sliders, scroll animations, and dark mode — fully responsive and built with HTML5, CSS3, and JavaScript.
 
 - 🔹 [RealState - HTML/CSS/JS](https://github.com/AhmedKhaled2817/RealState)  
   ↳ A fully responsive real estate website featuring a modern layout, dark mode toggle, scroll animations, and clean property sections — ideal for showcasing real estate agencies or landing pages
