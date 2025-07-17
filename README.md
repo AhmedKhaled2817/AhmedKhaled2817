@@ -71,7 +71,7 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
   ↳ A professional portfolio website to showcase projects, skills, and contact information — built with HTML, CSS,  Bootstrap 5, and JavaScript with smooth scrolling, animations, and responsive layout.
   
 - 🔹 [Shopping UI - HTML/CSS/JS](https://github.com/AhmedKhaled2817/shopping)  
-  ↳ A clean and responsive product showcase layout with category filtering functionality. Built with HTML5, CSS3, Bootstrap 5, and JavaScript to demonstrate UI design and interaction logic.
+  ↳ A clean and responsive product showcase layout with category filtering functionality. Built with HTML5, CSS3, Bootstrap 5, and  jQuery to demonstrate UI design and interaction logic.
 
 - 🔹 [TravelWebsite - HTML/CSS/JS](https://github.com/AhmedKhaled2817/TravelWebsite)  
   ↳ A beautiful and interactive travel agency website featuring destination showcases, testimonial sliders, scroll animations, and dark mode — fully responsive and built with HTML5, CSS3, and JavaScript.
