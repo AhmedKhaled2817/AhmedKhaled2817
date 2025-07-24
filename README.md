@@ -67,6 +67,9 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📌 Featured Projects
 
+- 🔹 [SimpleRestaurant - HTML/Tailwind/JS](https://github.com/AhmedKhaled2817/SimpleResturant)  
+  ↳ A sleek and responsive restaurant landing page built using **HTML**, **Tailwind CSS v3**, and **JavaScript**. Features animated scroll effects with `ScrollReveal.js`, sliders using `Swiper.js`, and modern icon libraries like `Remix Icons` and `FontAwesome`. The layout is clean, mobile-friendly, and ideal for food service websites.
+
 - 🔹 [Portfolio - HTML/CSS/JS](https://github.com/AhmedKhaled2817/Portfolio)  
   ↳ A professional portfolio website to showcase projects, skills, and contact information — built with HTML, CSS,  Bootstrap 5, and JavaScript with smooth scrolling, animations, and responsive layout.
   
