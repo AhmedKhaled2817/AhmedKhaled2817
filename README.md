@@ -19,7 +19,7 @@
 
 - 📘 **Software Engineering Fundamentals**: Solid understanding of development principles and best practices  
 - 💻 **Operating Systems & Networks**: Knowledgeable in OS architecture and network protocols  
-- 🧠 **C++ Programming**: Experience in OOP, Data Structures, and Algorithms  
+- 🧠 **C++ Programming**: GOOD in OOP, Data Structures, and Algorithms  
 
 ---
 
