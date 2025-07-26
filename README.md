@@ -67,6 +67,9 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📌 Featured Projects
 
+- 💠 [Perfume - Responsive Landing Page](https://github.com/AhmedKhaled2817/Perfume)  
+  ↳ A modern and elegant **perfume landing page** built using **HTML5**, **Tailwind CSS v3**, and **JavaScript (ES6)**. Features smooth scroll animations with **ScrollReveal.js**, icons from **RemixIcon** and **FontAwesome**, and a fully responsive design optimized for all screen sizes. Ideal for product showcase websites.
+
 - 🔹 [SimpleRestaurant - HTML/Tailwind/JS](https://github.com/AhmedKhaled2817/SimpleResturant)  
   ↳ A sleek and responsive restaurant landing page built using **HTML**, **Tailwind CSS v3**, and **JavaScript**. Features animated scroll effects with `ScrollReveal.js`, sliders using `Swiper.js`, and modern icon libraries like `Remix Icons` and `FontAwesome`. The layout is clean, mobile-friendly, and ideal for food service websites.
 
