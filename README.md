@@ -68,6 +68,9 @@ I'm dedicated to **lifelong learning**, **real-world development**, and **proble
 
 ## 📌 Featured Projects
 
+- 🔹 [Delivery - HTML/SCSS/JS](https://github.com/AhmedKhaled2817/Delivery)  
+  ↳ A fully responsive delivery service website built with **HTML**, **SCSS**, and **JavaScript**. It features a sleek modern design with **Dark Mode**, **scroll-based animations**, and modular, clean code structure — ideal for showcasing logistics or delivery businesses.
+
 - 💠 [Perfume - Responsive Landing Page](https://github.com/AhmedKhaled2817/Perfume)  
   ↳ A modern and elegant **perfume landing page** built using **HTML5**, **Tailwind CSS v3**, and **JavaScript (ES6)**. Features smooth scroll animations with **ScrollReveal.js**, icons from **RemixIcon** and **FontAwesome**, and a fully responsive design optimized for all screen sizes. Ideal for product showcase websites.
 
