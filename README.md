@@ -119,14 +119,18 @@ My goal is to become a **Professional Full Stack Developer** delivering
 
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/AhmedKhaled2817?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/AhmedKhaled2817?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-✔-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AhmedKhaled2817&show_icons=true&theme=radical" />
+</p>
 
-![Angular](https://img.shields.io/badge/Angular-Expert-red?style=flat-square&logo=angular)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strong-blue?style=flat-square&logo=typescript)
-![C++](https://img.shields.io/badge/C++-OOP%20%26%20DSA-blue?style=flat-square&logo=cplusplus)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AhmedKhaled2817&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmedKhaled2817&theme=radical" />
+</p>
+
 ![.NET](https://img.shields.io/badge/.NET-Learning-purple?style=flat-square&logo=dotnet)
 
 ---
