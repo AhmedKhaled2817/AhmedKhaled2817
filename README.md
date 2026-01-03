@@ -119,17 +119,11 @@ My goal is to become a **Professional Full Stack Developer** delivering
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedKhaled2817&show_icons=true&theme=radical&hide_border=true"/>
-</p>
+![Ahmed Khaled GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedKhaled2817&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhaled2817&layout=compact&theme=radical&hide_border=true"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhaled2817&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedKhaled2817&theme=radical&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=AhmedKhaled2817&theme=radical)
 
 ---
 
