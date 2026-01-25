@@ -137,6 +137,6 @@ My goal is to become a **Professional Full Stack Developer** delivering
 
 ## 📫 Let's Connect
 
-- 📧 Email: **ahmedkhaled2817@gmail.com**
+- 📧 Email: **akhaledafify@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/ahmed-khaled-39242423a/
 - 🧑‍💻 GitHub: https://github.com/AhmedKhaled2817
