@@ -15,128 +15,38 @@
 
 ---
 
-## 💼 What I've Focused On So Far
+## 💼 Core Skills & Expertise
 
-- 📘 **Software Engineering Fundamentals**
-- 💻 **Operating Systems & Computer Networks**
-- 🧠 **C++ Programming** (OOP, Data Structures, Algorithms)
-
----
-
-## 🚀 Frontend Development Journey
-
-- ✅ HTML5, CSS3, JavaScript (ES6+)
-- 🔨 Built many real-world & mini projects
-- ⚙️ TypeScript & Angular for scalable applications
+- **Frontend:** Angular 20, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS  
+- **UI & Styling:** Bootstrap 5, Tailwind CSS, Angular Material, Responsive Design  
+- **State Management:** NgRx, Angular Signals, RxJS  
+- **Backend Basics:** C#, .NET, Firebase, REST APIs  
+- **Tools & Workflow:** Git, GitHub, Vercel, Agile Methodologies  
+- **Other:** OOP, Data Structures, Algorithms, Clean Code, Problem Solving  
 
 ---
 
-## 🔧 Backend Development Path
+## 📌 Featured Project
 
-- 🎯 Learning **C# & .NET**
-- 🗃️ Working with **Databases, APIs & CRUD Operations**
+### 🛍 WearHouse — Enterprise-Inspired Angular E‑Commerce & Admin System
+🔗 [GitHub Repository](https://github.com/AhmedKhaled2817/E-Commerce)
 
----
+**Overview:**  
+High-performance Angular e-commerce system featuring a **Customer Storefront** and a full-featured **Admin Control Center**. Designed with **production-grade architecture** and **scalable patterns**.  
 
-## 🎯 Mission Statement
+**Key Highlights:**  
+- **Hybrid State Management:** NgRx (Store/Effects/Entity) for admin domain, Angular Signals for UI reactivity  
+- **Admin Dashboard:** Inventory & stock tracking, dynamic category management, product & image handling  
+- **Architecture & Performance:** Core/Shared/Feature modular structure, Lazy Loading, Swiper.js Web Components, i18n (English/Arabic) with RTL/LTR  
+- **Infrastructure:** Global interceptors, JWT-like auth simulation, role-based route guards  
+- **UX & UI:** Fully responsive, fast, and interactive interface  
 
-My goal is to become a **Professional Full Stack Developer** delivering  
-**robust**, **high-performance**, and **scalable** web applications using  
-**Angular** and **.NET**.
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-</p>
+**Technologies:** Angular, TypeScript, SCSS, Bootstrap 5, NgRx, Signals, RxJS, Swiper.js  
 
 ---
 
-## 📌 Featured Projects
+## 📫 Connect with Me
 
-- 🔹 **Delivery Website**  
-  🔗 https://github.com/AhmedKhaled2817/Delivery  
-  Responsive delivery service website with Dark Mode & animations.
-
-- 🔹 **Perfume Landing Page**  
-  🔗 https://github.com/AhmedKhaled2817/Perfume  
-  Tailwind CSS landing page with smooth animations.
-
-- 🔹 **Simple Restaurant**  
-  🔗 https://github.com/AhmedKhaled2817/SimpleResturant  
-  Restaurant UI using Tailwind, Swiper & ScrollReveal.
-
-- 🔹 **Portfolio Website**  
-  🔗 https://github.com/AhmedKhaled2817/Portfolio  
-  Personal portfolio built with HTML, CSS, Bootstrap & JS.
-
-- 🔹 **Shopping UI**  
-  🔗 https://github.com/AhmedKhaled2817/shopping  
-  Product UI with filtering using Bootstrap & jQuery.
-
-- 🔹 **Travel Website**  
-  🔗 https://github.com/AhmedKhaled2817/TravelWebsite  
-
-- 🔹 **Real Estate Website**  
-  🔗 https://github.com/AhmedKhaled2817/RealState  
-
-- 🔹 **Electric Car Landing Page**  
-  🔗 https://github.com/AhmedKhaled2817/ECar  
-
-- 🔹 **EBook Website**  
-  🔗 https://github.com/AhmedKhaled2817/EBook  
-
-- 🔹 **Quiz App**  
-  🔗 https://github.com/AhmedKhaled2817/QuizApp  
-
-- 🔹 **Food Restaurant Website**  
-  🔗 https://github.com/AhmedKhaled2817/FoodResturant  
-
-- 🔹 **50 Mini JavaScript Projects**  
-  🔗 https://github.com/AhmedKhaled2817/50-Project-HTML-CSS-JS  
-
-- 🔹 **Bank Management System (C++)**  
-  🔗 https://github.com/AhmedKhaled2817/Bank-Management-System  
-
-- 🔹 **Library Management System (C++)**  
-  🔗 https://github.com/AhmedKhaled2817/Electronic-Library-Management-System-ELMS  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AhmedKhaled2817&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AhmedKhaled2817&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedKhaled2817&theme=radical" />
-</p>
-
-![.NET](https://img.shields.io/badge/.NET-Learning-purple?style=flat-square&logo=dotnet)
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: **akhaledafify@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-khaled-39242423a/
-- 🧑‍💻 GitHub: https://github.com/AhmedKhaled2817
+- 📧 Email: **akhaledafify@gmail.com**  
+- 💼 LinkedIn: [Ahmed Khaled](https://www.linkedin.com/in/ahmed-khaled-39242423a/)  
+- 🧑‍💻 GitHub: [AhmedKhaled2817](https://github.com/AhmedKhaled2817)
